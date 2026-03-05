@@ -38,13 +38,7 @@ I am a passionate developer currently pursuing a **B.S. in Computer Engineering*
 
 ### 📁 Featured Projects
 
-#### 🎮 [Project Name - e.g., 2D Game Title]
-* **Description:** A 2D game focused on [mechanics] developed with [Engine/Language].
-* **Key Skills:** OOP, Game Logic, UI Design.
-
-#### 🤖 [Project Name - e.g., AI Python Script]
-* **Description:** Python automation tool integrated with AI for [specific task].
-* **Key Skills:** Python, AI Integration, Efficiency.
+#### In progress...
 
 ---
 
