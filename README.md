@@ -21,7 +21,7 @@ I am a passionate developer currently pursuing a **B.S. in Computer Engineering*
 
 ### 🛠️ Technical Stack
 
-* **Languages:** Python (Advanced), Java, C#, SQL.
+* **Languages:** Python, Java, C#, SQL.
 * **Specialties:** Object-Oriented Programming (OOP), UI/UX Design & Usability.
 * **Emerging Tech:** AI-Enhanced Software, 3D Printing (Additive Manufacturing).
 * **Infrastructure:** Network Systems, IT Support, DocuWare ECM.
